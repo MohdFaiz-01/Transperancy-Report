@@ -5,7 +5,7 @@ Altibbe Verified Transparency Report is a full-stack product transparency report
 ## Setup Instructions
 
 1. **Clone the repository**
-   git clone https://github.com/yourusername/altibbe-transparency.git
+   git clone https://github.com/MohdFaiz-01/Transperancy-Report.git
    cd altibbe-transparency
 2. **Install dependencies**
     Backend:
